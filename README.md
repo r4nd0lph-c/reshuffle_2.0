@@ -1,2 +1,2 @@
-# reshuffle_2.0
+# RESHUFFLE 2.0
 Web application
